@@ -23,4 +23,19 @@ En este proyecto de análisis de datos, se abordará el desafío de seleccionar 
 
 ## Flujo de trabajo
 
+El flujo de trabajo se comienza con una primera eta de "Análisis exploratorio de los datos" (EDA) para identificar valores faltantes, atípicos, registros duplicados y patrones en los datos.
+Luego a partir de las conclusiones sacadas en el EDA, se pasa a la instancia del diseño y armado de dashboard en base a los objetivos planteados.
+Por último se sacan las conclusiones de los resultados del dashboard y se presentan KPIs que servirán como insights para un inversor a mediano/corto plazo.
+
+### EDA
+En el archivo de jupyter notebook llamado "EDA" que se encuentra en el repositorio podemos ver el proceso que se llevo a cabo en esta etapa, con sus respectivas conclusiones.
+
+### Dashboard
+Se diagramó el dashboard primeramente según los objetivos y luego se pasó a su construcción con la herramienta de PowerBI, en él encontraremos una portada con botones interactivos a las diferentes páginas, un análisis general de tendencias históricas de precios, volúmenes y capitalización de mercado, también interactivo para ver el comportamiento de cada moneda en particular y por fechas específicas.
+Por otro lado encontrarán en las hojas subsiguientes los KPIs que le servirán al inversor para la toma de decisiones
+
+### Informe de análisis
+
+
+### KPI´s
 
