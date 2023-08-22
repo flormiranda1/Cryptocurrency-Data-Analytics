@@ -1,0 +1,14 @@
+KPIS A MEJORAR:
+
+1. Precio actual vs Media móvil: establecer un precio que sería nuestro "objetivo o deseado", luego tomar el
+precio actual de la moneda y a partir de ahí medir que tan lejos o cerca se está de alcanzar ese precio,
+tomando esta medida como nuestra rentabilidad deseada
+
+2. Riesgo o volatilidad: en vez de que el indicador nos diga riesgo elevado o riesgo aceptable, hacer una resta
+entre nuestro riesgo máximo asumible y la volatilidad o como lo hemos tomado (variación porcentual acumulada)
+y esa resta nos dirá que tan lejos o cerca estamos de llegar a nuestro riesgo aceptable y nos dará una medida
+de cuando retirarnos
+
+3. Porcentaje de cambio en las últimas 24 hs: de nuevo, establecer un objetivo de cual sería nuestro porcentaje
+de cambio ideal, como una medida de oportunidad, y en base al porcentaje real que tomamos de la API de coingecko
+medir que tan lejos o cerca estamos de ese porcentaje y tomarlo como que tan buena oportunidad tenemos en frente.
